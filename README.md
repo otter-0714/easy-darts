@@ -15,8 +15,8 @@ This project is a website designed for individuals to record and track their dar
 
 ## Image
 
-![Image1](screenshot\image1.png)
-![Image2](screenshot\image2.png)
+![image1](https://github.com/user-attachments/assets/2ec89d67-3433-41ce-81ac-820c2a61f380)
+![image2](https://github.com/user-attachments/assets/0ca989db-80e1-40ac-a10a-e37f6ab696b7)
 
 ## Licence
 
